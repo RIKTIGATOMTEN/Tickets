@@ -6,5 +6,5 @@ description: Ett avancerat modulärt ticket system till din discord server.
 
 mainfile: ./script/main.js
 eventfile: ./events/xftickethandler.js
-mainconfig: ./config/ticketoptions.json
+mainconfig: ./config/ticketOptions.json
 type: addon
